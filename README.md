@@ -15,7 +15,7 @@ Olá sou ** Vinicius Lemos **, ** Programador FullStack** (REACTJS + TYPESCRIPT,
 
   <img align="right" alt="GIF" src="https://media.tenor.com/images/b7939d73d32cb3ce5e48a80dd35dc599/tenor.gif" />
 
-**Coisas Pessoais: **
+*Coisas Pessoais: *
 
 - 👨🏽‍💻 Atualmente sou programador da Placas Express;
 - 🌱 Atualmente estou aprendendo Docker; 
