@@ -11,7 +11,7 @@
 <br />
 <br />
 
-Olá sou ** Vinicius Lemos **, ** Programador FullStack** (REACTJS + TYPESCRIPT, NODEJS) **🚀**
+Olá sou ** Vinicius Lemos **, ** Programador FullStack ** (REACTJS + TYPESCRIPT, NODEJS) **🚀**
 
   <img align="right" alt="GIF" src="https://media.tenor.com/images/b7939d73d32cb3ce5e48a80dd35dc599/tenor.gif" />
 
