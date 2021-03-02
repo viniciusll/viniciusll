@@ -13,7 +13,7 @@
 
 Olá sou ** Vinicius Lemos **, ** Programador FullStack ** (REACTJS + TYPESCRIPT, NODEJS) **🚀**
 
-  <img align="right" alt="GIF" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
+  <img align="right" alt="GIF" src="https://blog.bsource.com.br/assets/img/comunidade.gif" />
 
 Coisas Pessoais:
 
