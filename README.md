@@ -13,7 +13,7 @@
 
 Olá sou ** Vinicius Lemos **, ** Programador FullStack ** (REACTJS + TYPESCRIPT, NODEJS) **🚀**
 
-  <img align="right" alt="GIF" src="https://static.wixstatic.com/media/01151f_46f79bda561542528507d736fc34b970~mv2.gif" />
+  <img align="right" alt="GIF" src="https://camo.githubusercontent.com/0fc8c3b0b3a60d061f6f69bc0e7d8fdcab39d0108aaea52863863c20a86bb5a4/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6768305252676b54586564764630704463302f67697068792e676966" />
 
 Coisas Pessoais:
 
