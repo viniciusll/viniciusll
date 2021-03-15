@@ -13,7 +13,9 @@
 
 Olá sou ** Vinicius Lemos **, ** Programador FullStack ** (REACTJS + TYPESCRIPT, NODEJS) **🚀**
 
-![viniciusll github stats](https://github-readme-stats.vercel.app/api?username=viniciusll&show_icons=true&theme=tokyonight&include_all_commits=true)
+<div lign="right">
+  ![viniciusll github stats](https://github-readme-stats.vercel.app/api?username=viniciusll&show_icons=true&theme=tokyonight&include_all_commits=true)
+</div>
 
 Coisas Pessoais:
 
