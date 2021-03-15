@@ -13,7 +13,7 @@
 
 Olá sou ** Vinicius Lemos **, ** Programador FullStack ** (REACTJS + TYPESCRIPT, NODEJS) **🚀**
 
-  <img align="right" alt="GIF" src="https://camo.githubusercontent.com/0fc8c3b0b3a60d061f6f69bc0e7d8fdcab39d0108aaea52863863c20a86bb5a4/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6768305252676b54586564764630704463302f67697068792e676966" />
+![viniciusll github stats](https://github-readme-stats.vercel.app/api?username=viniciusll&show_icons=true&theme=tokyonight&include_all_commits=true)
 
 Coisas Pessoais:
 
@@ -31,5 +31,3 @@ Coisas Pessoais:
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 <code><img height="20" src="https://miro.medium.com/max/780/1*Rmc568knYGLn7kJ3B97WUQ.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-
-![viniciusll github stats](https://github-readme-stats.vercel.app/api?username=viniciusll&show_icons=true&theme=tokyonight&include_all_commits=true)
