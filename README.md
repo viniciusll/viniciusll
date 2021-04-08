@@ -18,7 +18,7 @@ Olá sou ** Vinicius Lemos **, ** Programador FullStack ** (REACTJS + TYPESCRIPT
 Coisas Pessoais:
 
 - 👨🏽‍💻 Atualmente sou programador da Placas Express;
-- 🌱 Atualmente estou aprendendo Docker; 
+- 🌱 Atualmente estou aprendendo signalr, azure functions e c#; 
 - 🤔 Meus interesses são UX Design e node + typescript;
 - 📫 Meu email de contato viniciuslemosmartins1@gmail.com
 
