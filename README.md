@@ -40,7 +40,7 @@
 ##
   
 <div style="display: inline_block"><br>
-  <img align="right" alt="I am learning" height="180" src="https://programathor.com.br/blog/wp-content/uploads/2018/05/fast-typing.gif" />
+  <img align="right" alt="I am learning" height="200" src="https://media.giphy.com/media/ZvLUtG6BZkBi0/giphy.gif" />
   <p align="center">🐱‍🏍Atualmente estou aprendendo:</p>
   <p align="center">React Native</p>
   <p align="center">Firebase</p>
