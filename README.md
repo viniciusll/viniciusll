@@ -31,7 +31,7 @@
 
 <div style="display: inline_block"><br>
   <img align="left" alt="About me" height="200" src="https://i2.wp.com/rubberchickengames.com/wp-content/uploads/2015/04/jim-carrey-bruce-almighty.gif?ssl=1" />
-  <p>Olá meu nome é Vinicius Lemos, trabalho com programação a 3 anos, isso já é motivo já para ter sérios problemas psicológicos hahahaha</p>
+  <p>Olá meu nome é Vinicius Lemos, trabalho com programação a 4 anos e meio, isso já é motivo já para ter sérios problemas psicológicos hahahaha</p>
   <p>
     Agora deixando a brincadeira de lado, deixa eu falar mais sobre mim, tenho 17 anos, tenho interesse em fazer faculdade de análise de sistema e trabalhar na área, atuando         como desenvolvedor front-end e back-end, quem sabe ir para o mundo de APPS, essa parte ainda estou indeciso hahaha.
   </p>
