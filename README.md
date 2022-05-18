@@ -1,12 +1,6 @@
 ## Welcome🐱‍👤
 
-<div>
-  <a href="https://github.com/viniciusll">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=viniciusll&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true" />
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusll&layout=compact&langs_count=16&theme=midnight-purple" />
-</div>
-  
-<div style="display: inline_block"><br>
+ <div style="display: inline_block"><br>
   <img align="center" height="40" alt="Javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">
   <img align="center" height="40" alt="TypeScript" src="https://miro.medium.com/max/816/1*mn6bOs7s6Qbao15PMNRyOA.png">
   <img align="center" height="40" alt="Reactjs" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png">
