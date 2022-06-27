@@ -33,7 +33,6 @@ My name is Vinicius Martins and I'm a Full stack developer<br/>
 
 ![](https://img.shields.io/badge/Node.js-6DA55F?style=flat&logo=node.js&logoColor=white)
 ![](https://img.shields.io/badge/Nestjs-%23E0234E.svg?flat&logo=nestjs&logoColor=white)
-![](https://img.shields.io/badge/Prisma-3982CE?flat&logo=Prisma&logoColor=white)
 ![](https://img.shields.io/badge/React-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)
 ![](https://img.shields.io/badge/Typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white)
 ![](https://img.shields.io/badge/Mysql-2b87b5.svg?style=flat&logo=mysql&logoColor=white)
@@ -46,6 +45,7 @@ My name is Vinicius Martins and I'm a Full stack developer<br/>
 ![](https://img.shields.io/badge/Elixir-fff?&style=flat&logo=elixir&logoColor=4a3560)
 ![](https://img.shields.io/badge/-GraphQL-E10098?style=flat&logo=graphql&logoColor=white)
 ![](https://img.shields.io/badge/Rust-%23000000.svg?style=flat&logo=rust&logoColor=white)
+![](https://img.shields.io/badge/Prisma-3982CE?flat&logo=Prisma&logoColor=white)
 ![](https://img.shields.io/badge/Redis-%23DD0031.svg?flat&logo=redis&logoColor=white)
 ![](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat&logo=Flutter&logoColor=white)
 ![](https://img.shields.io/badge/Apache%20Kafka-000?style=flat&logo=apachekafka)
