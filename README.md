@@ -39,13 +39,13 @@ My name is Vinicius Martins and I'm a Full stack developer<br/>
 ![](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white)
 ![](https://img.shields.io/badge/Docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white)
 ![](https://img.shields.io/badge/-Swagger-%23Clojure?style=flat&logo=swagger&logoColor=white)
+![](https://img.shields.io/badge/-GraphQL-E10098?style=flat&logo=graphql&logoColor=white)
+![](https://img.shields.io/badge/Prisma-3982CE?flat&logo=Prisma&logoColor=white)
 
 #### 📚 Learning:
 ![](https://img.shields.io/badge/Ruby-9B111E?style=flat&logo=ruby&logoColor=white)
 ![](https://img.shields.io/badge/Elixir-fff?&style=flat&logo=elixir&logoColor=4a3560)
-![](https://img.shields.io/badge/-GraphQL-E10098?style=flat&logo=graphql&logoColor=white)
 ![](https://img.shields.io/badge/Rust-%23000000.svg?style=flat&logo=rust&logoColor=white)
-![](https://img.shields.io/badge/Prisma-3982CE?flat&logo=Prisma&logoColor=white)
 ![](https://img.shields.io/badge/Redis-%23DD0031.svg?flat&logo=redis&logoColor=white)
 ![](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat&logo=Flutter&logoColor=white)
 ![](https://img.shields.io/badge/Apache%20Kafka-000?style=flat&logo=apachekafka)
