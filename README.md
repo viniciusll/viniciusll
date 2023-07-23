@@ -22,7 +22,7 @@ My name is Vinicius Martins and I'm a Full stack developer<br/>
 </a>
 
 #### 🚀 Working:
-- [Act Digital](https://actdigital.com/) Backend developer;
+- [Bold](https://boldbr.com/) Backend developer;
 - [Hospital Israelita Albert Einstein](https://www.einstein.br/Pages/Home.aspx) Backend developer by Act Digital
 
 #### 😎 Skills
