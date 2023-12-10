@@ -22,8 +22,8 @@ My name is Vinicius Martins and I'm a Full stack developer<br/>
 </a>
 
 #### 🚀 Working:
-- [Bold](https://boldbr.com/) Backend developer;
-- [Hospital Israelita Albert Einstein](https://www.einstein.br/Pages/Home.aspx) Backend developer by Bold
+- [Act Digital](https://boldbr.com/](https://actdigital.com/pt?gclid=Cj0KCQiA4NWrBhD-ARIsAFCKwWsQtn7AhiBaaTtlPayU9pAUZ91AFP_rKe3Rf49RuKdkV0wSbyQ-fegaAgXlEALw_wcB) Backend developer;
+- [Hospital Israelita Albert Einstein](https://www.einstein.br/Pages/Home.aspx) Backend developer by Act Digital
 
 #### 😎 Skills
 ![](https://img.shields.io/badge/HTML5-E96228?style=flat&logo=HTML5&logoColor=white)
